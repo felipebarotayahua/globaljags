@@ -1,6 +1,6 @@
 // Imports
 const {Storage} = require('@google-cloud/storage');
-const {path} = require('path');
+const path = require('path');
 const fs = require('fs-extra');
 const os = require('os');
 const sharp = require('sharp');
