@@ -22,3 +22,4 @@ Trigger the Cloud Function by uploading a sample image to your bucket. **Ensure 
 ```
 gsutil cp gs://sp23-globaljags-dev-sample-images/china/china1.jpeg gs://sp24-elliott-globaljags-final
 ```
+
